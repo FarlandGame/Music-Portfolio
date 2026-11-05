@@ -1,0 +1,57 @@
+{
+  "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
+  "tracks": [
+    {
+      "source_name": "雨よ来い.mp3",
+      "bytes": 4618713,
+      "sha256": "d0095ff53cab6642c93845147b5253f0f522f1f5aa02450558265923f251caff",
+      "duration_seconds": 115.44,
+      "audio": "audio/come-rain.mp3",
+      "decode_ok": true,
+      "id": "come-rain",
+      "title": "雨よ来い",
+      "english_title": "Come, Rain",
+      "language": "ja",
+      "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
+      "cover": "covers/come-rain.png",
+      "cover_sha256": "452c1140b699a8c80b8e3ef157d387c84cff5200cce9c5e521dc3513b9c76cf9",
+      "cover_bytes": 3484807,
+      "cover_width": 1254,
+      "cover_height": 1254,
+      "publication_date": "2026-11-05",
+      "audio_preservation": "Original supplied MP3, byte-identical; no re-encoding",
+      "ai_assisted": true
+    },
+    {
+      "source_name": "چرخ زمان بازمیگردد.mp3",
+      "bytes": 3795993,
+      "sha256": "874feaa3352ff485fbfedc9964e83aef69458b966801e943d22216546ceef5ff",
+      "duration_seconds": 94.87,
+      "audio": "audio/times-wheel-turns-back.mp3",
+      "decode_ok": true,
+      "id": "times-wheel-turns-back",
+      "title": "چرخ زمان بازمیگردد",
+      "english_title": "Time’s Wheel Turns Back",
+      "language": "fa",
+      "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
+      "cover": "covers/times-wheel-turns-back.png",
+      "cover_sha256": "3ba9e782c6e00fcecc892704f86af64cd5f0145a40cb5784b826667e621b1cc8",
+      "cover_bytes": 3750163,
+      "cover_width": 1254,
+      "cover_height": 1254,
+      "publication_date": "2026-11-05",
+      "audio_preservation": "Original supplied MP3, byte-identical; no re-encoding",
+      "ai_assisted": true
+    }
+  ],
+  "workflow": {
+    "idea": "Claude",
+    "lyrics": "ChatGPT",
+    "music": "Suno",
+    "audio_extraction": "InShot",
+    "cover_design": "Photoshop + AI"
+  },
+  "soundcloud_profile": "https://soundcloud.com/bardiya-kabir-798008614",
+  "soundcloud_publication": "Creator-reported; direct track URLs not supplied",
+  "rights": "No open-source or remix license granted by this repository."
+}

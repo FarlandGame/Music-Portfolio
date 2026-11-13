@@ -1,9 +1,9 @@
 # 音楽とカバーアート 🎧
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.svg" width="600" alt="music"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="music sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.ja.svg" width="600" alt="音楽 · ペルシャ語と日本語"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.ja.svg" width="90" alt="音楽 · ペルシャ語と日本語"></p>
 
-[← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
+[← Farland_game / ポートフォリオ](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
 
 **Bardiya Alizadeh · Kabir · Farland_game**

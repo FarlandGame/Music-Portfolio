@@ -1,9 +1,9 @@
 # موسیقی و طراحی کاور 🎧
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.svg" width="600" alt="music"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="music sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.fa.svg" width="600" alt="موسیقی · فارسی و ژاپنی"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.fa.svg" width="90" alt="موسیقی · فارسی و ژاپنی"></p>
 
-[← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
+[← Farland_game / رزومه](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
 
 **Bardiya Alizadeh · Kabir · Farland_game**

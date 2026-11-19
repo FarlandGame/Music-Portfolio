@@ -1,5 +1,8 @@
 # 音楽とカバーアート 🎧
 
+<!-- FOUR_LANGUAGE_ENTRY -->
+[English](https://github.com/FarlandGame/Music-Portfolio/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.ru.md)
+
 <!-- PROJECT_VISUAL_HEADER -->
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.ja.svg" width="600" alt="音楽 · ペルシャ語と日本語"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.ja.svg" width="90" alt="音楽 · ペルシャ語と日本語"></p>
 

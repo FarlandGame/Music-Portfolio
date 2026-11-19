@@ -53,5 +53,11 @@
   },
   "soundcloud_profile": "https://soundcloud.com/bardiya-kabir-798008614",
   "soundcloud_publication": "Creator-reported; direct track URLs not supplied",
-  "rights": "No open-source or remix license granted by this repository."
+  "rights": "No open-source or remix license granted by this repository.",
+  "interface_and_track_description_languages": [
+    "en",
+    "fa",
+    "ja",
+    "ru"
+  ]
 }

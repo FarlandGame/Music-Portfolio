@@ -1,6 +1,6 @@
 # 雨よ来い · Come, Rain 🎵
 
-[English](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.en.md) · [فارسی](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.fa.md) · [日本語](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.ja.md)
+[English](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.en.md) · [فارسی](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.fa.md) · [日本語](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.ja.md) · [Русский](https://github.com/FarlandGame/Music-Portfolio/blob/main/tracks/come-rain.ru.md)
 
 ![Come, Rain](https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/come-rain.png)
 

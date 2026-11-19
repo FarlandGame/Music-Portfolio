@@ -1,7 +1,7 @@
 # Музыка и обложки 🎧
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.svg" width="600" alt="music"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="music sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/music.svg" width="600" alt="music"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/music-sticker.svg" width="90" alt="music sticker"></p>
 
 [← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->

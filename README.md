@@ -1,5 +1,8 @@
 # Music & Cover Art 🎧
 
+<!-- FOUR_LANGUAGE_ENTRY -->
+[English](https://github.com/FarlandGame/Music-Portfolio/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.ru.md)
+
 <!-- PROJECT_VISUAL_HEADER -->
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-card.svg" width="600" alt="music"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="music sticker"></p>
 
